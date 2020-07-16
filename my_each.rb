@@ -1,10 +1,10 @@
 def my_each(arr) 
   counter = 0 
   while counter < array.length 
-  yield arr[i]
+  yield arr[]
   counter += 1
   end
-  array
+  arr
 end
 
 
